@@ -22,4 +22,5 @@ const setupServer = async () => {
   }
 };
 
+module.exports = setupServer();
 setupServer();
